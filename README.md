@@ -2,7 +2,7 @@
 
 Deze les gaat over de volgende hoofdstukken van de theorie: 
 
-- [HTML SyntaX](https://rogiervdl.github.io/HTML-course/02_syntax.html#/)
+- [HTML Syntax](https://rogiervdl.github.io/HTML-course/02_syntax.html#/)
 - [Text](https://rogiervdl.github.io/HTML-course/03_text.html#/)  
 - [Links](https://rogiervdl.github.io/HTML-course/04_links.html#/)  
 - [Tabellen](https://rogiervdl.github.io/HTML-course/05_tables.html#/)  
