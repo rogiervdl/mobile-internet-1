@@ -1,34 +1,16 @@
-# Mobile & Internet 1
+# Opdrachten voor Mobile & Internet 1, les 02. 
 
-## Cursusmateriaal
+Deze les gaat over de volgende hoofdstukken van de theorie: 
 
-De presentaties HTML zijn te vinden op [https://rogiervdl.github.io/HTML-course/](https://rogiervdl.github.io/HTML-course/)  
-De presentaties CSS zijn te vinden op [https://rogiervdl.github.io/CSS-course/](https://rogiervdl.github.io/CSS-course/)  
+- [HTML SyntaX](https://rogiervdl.github.io/HTML-course/02_syntax.html#/)
+- [Text](https://rogiervdl.github.io/HTML-course/03_text.html#/)  
+- [Links](https://rogiervdl.github.io/HTML-course/04_links.html#/)  
+- [Tabellen](https://rogiervdl.github.io/HTML-course/05_tables.html#/)  
+- [Objecten](https://rogiervdl.github.io/HTML-course/06_objects.html#/)  
 
-## Opdrachten
+Neem deze vooraf grondig door. Doelstellingen van de oefeningen:
 
-De opdrachten staan voor elke les in een aparte branch. Kies de gewenste branch via het dropdown menu op deze pagina (net boven mijn mini-foto).
+- eenvoudige HTML pagina's correct kunnen aanmaken en valideren
+- de voornaamste elementen voor tekst, links en afbeeldingen leren kennen
 
-## Online materiaal
-
-### HTML & CSS tutorials
-
-[https://www.w3schools.com/](https://www.w3schools.com/)  
-[https://developer.mozilla.org/en-US/docs/Learn](https://developer.mozilla.org/en-US/docs/Learn)  
-[https://css-tricks.com/](https://css-tricks.com/)  
-
-### cheat sheets
-
-verzamelsite van cheat sheets: [https://www.cheatography.com/](https://www.cheatography.com/)  
-markdown: [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
-CSS: [https://www.cheatography.com/davechild/cheat-sheets/css2/](https://www.cheatography.com/davechild/cheat-sheets/css2/)  
-
-### browser compatibiliteit
-
-[https://caniuse.com/](https://caniuse.com/)  
-[http://html5please.com/](http://html5please.com/)  
-
-### help forum
-
-[Stack overflow](https://stackoverflow.com/) — maar blijf kritisch; niet alle antwoorden zijn even goed
-
+Begin bij **les02 opgave.pdf**
