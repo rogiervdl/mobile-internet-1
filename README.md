@@ -1,4 +1,4 @@
-# Opdrachten voor Mobile & Internet 1, les 2 
+# Opdrachten voor Mobile & Internet 1, les 2. 
 
 Deze les gaat over de volgende hoofdstukken van de theorie: 
 
