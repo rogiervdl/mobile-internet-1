@@ -1,34 +1,18 @@
-# Mobile & Internet 1
+# Opdrachten voor Mobile & Internet 1, les 3 
 
-## Cursusmateriaal
+Deze les gaat over alle geziene hoofdstukken, plus dit hoofdstuk: 
 
-De presentaties HTML zijn te vinden op [https://rogiervdl.github.io/HTML-course/](https://rogiervdl.github.io/HTML-course/)  
-De presentaties CSS zijn te vinden op [https://rogiervdl.github.io/CSS-course/](https://rogiervdl.github.io/CSS-course/)  
+- [Formulieren](https://rogiervdl.github.io/HTML-course/07_forms.html#/)
 
-## Opdrachten
+Je zou de basis HTML onder de knie moeten hebben. In de vorige les leerde je de HTML syntax en de voornaamste elementen kennen door een HTML structuurdocument na te bouwen op basis van een screenshot zonder design. Hier gaan we een stap verder en oefenen we in het zelf herkennen welke elementen het beste geschikt zijn aan de hand van een screenshot mét opmaak. Ook leer je de overige elementen kennen die in de vorige les nog niet aan bod gekomen zijn.
 
-De opdrachten staan voor elke les in een aparte branch. Kies de gewenste branch via het dropdown menu op deze pagina (net boven mijn mini-foto).
+De doelstellingen opgesomd:
 
-## Online materiaal
+- een structuurdocument kunnen bouwen aan de hand van een screenshot met opmaak
+- de juiste volgorde van de elementen kunnen bepalen
+- formulieren kunnen aanmaken
+- kunnen bepalen welke afbeeldingen wel en welke niet in het HTML structuurdocument moeten gecodeerd worden
 
-### HTML & CSS tutorials
+Voor wie ruimte over heeft, zijn er een paar extra’s voorzien: Youtube filmpje embedden (staat op [https://www.youtube.com/watch?v=VGUkNtcB-jE](https://www.youtube.com/watch?v=VGUkNtcB-jE)), shortcut icon, email link, interne link (anchor)...
 
-[https://www.w3schools.com/](https://www.w3schools.com/)  
-[https://developer.mozilla.org/en-US/docs/Learn](https://developer.mozilla.org/en-US/docs/Learn)  
-[https://css-tricks.com/](https://css-tricks.com/)  
-
-### cheat sheets
-
-verzamelsite van cheat sheets: [https://www.cheatography.com/](https://www.cheatography.com/)  
-markdown: [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
-CSS: [https://www.cheatography.com/davechild/cheat-sheets/css2/](https://www.cheatography.com/davechild/cheat-sheets/css2/)  
-
-### browser compatibiliteit
-
-[https://caniuse.com/](https://caniuse.com/)  
-[http://html5please.com/](http://html5please.com/)  
-
-### help forum
-
-[Stack overflow](https://stackoverflow.com/) — maar blijf kritisch; niet alle antwoorden zijn even goed
-
+Begin bij **les03 opgave.pdf**
