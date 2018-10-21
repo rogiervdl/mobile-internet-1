@@ -1,34 +1,9 @@
-# Mobile & Internet 1
+# Opdrachten voor Mobile & Internet 1, les 5 
 
-## Cursusmateriaal
+Deze les gaat over alle geziene hoofdstukken, plus dit hoofdstuk: 
 
-De presentaties HTML zijn te vinden op [https://rogiervdl.github.io/HTML-course/](https://rogiervdl.github.io/HTML-course/)  
-De presentaties CSS zijn te vinden op [https://rogiervdl.github.io/CSS-course/](https://rogiervdl.github.io/CSS-course/)  
+- [Sections](https://rogiervdl.github.io/HTML-course/09_sections.html#/)
 
-## Opdrachten
+Je leert nu elementen groeperen in sections (`<div>`, `<span>`, `<main>`, `<section>`, `<article>`, `<aside>` en `<nav>`). Tevens bestaat deze oefening ook uit meerdere pagina's, zodat je ze leert linken tot één site. 
 
-De opdrachten staan voor elke les in een aparte branch. Kies de gewenste branch via het dropdown menu op deze pagina (net boven mijn mini-foto).
-
-## Online materiaal
-
-### HTML & CSS tutorials
-
-[https://www.w3schools.com/](https://www.w3schools.com/)  
-[https://developer.mozilla.org/en-US/docs/Learn](https://developer.mozilla.org/en-US/docs/Learn)  
-[https://css-tricks.com/](https://css-tricks.com/)  
-
-### cheat sheets
-
-verzamelsite van cheat sheets: [https://www.cheatography.com/](https://www.cheatography.com/)  
-markdown: [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
-CSS: [https://www.cheatography.com/davechild/cheat-sheets/css2/](https://www.cheatography.com/davechild/cheat-sheets/css2/)  
-
-### browser compatibiliteit
-
-[https://caniuse.com/](https://caniuse.com/)  
-[http://html5please.com/](http://html5please.com/)  
-
-### help forum
-
-[Stack overflow](https://stackoverflow.com/) — maar blijf kritisch; niet alle antwoorden zijn even goed
-
+Begin bij **les05 opgave.pdf**
