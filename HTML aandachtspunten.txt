@@ -1,0 +1,44 @@
+vorm
+- layout
+- validatie
+
+basisdocument
+- doctype
+- taal
+- charset meta
+- title
+- head & body
+
+elementen
+- logo: h1 > a > (tekst | img[alt])
+- menu: ul > li > a
+
+titels
+- titel site: h1
+- titel pagina: h2
+- titel hoofdstukken: h3
+- enz...
+- verwar niet met paragrafen! titels verwijzen naar content eronder - geen content = geen titel
+
+afbeeldingen
+- [alt]: verplicht
+- [src]: relatief pad (dus geen file:///... )
+- design afbeeldingen weglaten (achtergrond, iconen...)
+- gebruik figure > figcaption + img* als het kan
+
+links
+- links niet vergeten! wat kan je allemaal aanklikken?
+- [title]: indien niet duidelijk (bv img gelinkt)
+
+formulieren
+- form element
+- eventueel: fieldset
+- label: [for] koppelen aan [id]
+	-> radiobuttons & checkboxes: label rond control
+- buttons (enkel in formulier) niet verwarren met links (andere pagina)
+- attributen autofocus, required, placeholder...
+- HTML5 types email, date, number, color...	
+
+andere
+- strong, em: enkel deel van een tekst
+- dl, sup, sub, ...
