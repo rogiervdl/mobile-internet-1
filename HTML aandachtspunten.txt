@@ -42,3 +42,15 @@ formulieren
 andere
 - strong, em: enkel deel van een tekst
 - dl, sup, sub, ...
+
+secties
+- secties: 
+  . body, nav, article, aside en section zijn secties
+  . elke titel (h1, h2, h3) zit in exact één sectie en omgekeerd
+  . h1 zit in de <body> section
+  . article: onafhankelijk blok
+  . nav: belangrijkste navigatieblokken
+  . aside: gerelateerde informatie
+- divisies:
+  . div, span, header, footer en main zijn divisies 
+  . hebben geen titel
