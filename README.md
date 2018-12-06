@@ -6,6 +6,6 @@ Deze les gaat over de laatste hoofdstukken van CSS:
 - [CSS Responsive & Beyond](https://rogiervdl.github.io/CSS-course/04_responsive_beyond.html#/) (verschijnt binnenkort)
 
 Zie bij layout vooral dat je de onderdelen CSS Float en CSS Flexbox begrijpt; dit zullen we hier nodig hebben.
-Het is tevens een herhaling van de vorige hoofdstukken. De opgave loopt over minstens twee lessen.
+Het is tevens een herhaling van de vorige hoofdstukken. De opgave loopt tot het einde van het semester.
 
 Begin bij **les09-12 opgave.pdf**
